@@ -4,4 +4,17 @@
 
 .navbar{
     margin: 0px 0px 0px 0px;
+    background-color: #d4d4f7;
+}
+
+#naslov1{
+    text-align: center;
+}
+
+body{
+    background-image: url("http://www.planwallpaper.com/static/images/Alien_Ink_2560X1600_Abstract_Background_1.jpg");
+}
+
+img{
+    margin: 5px 5px 5px 5px;
 }
